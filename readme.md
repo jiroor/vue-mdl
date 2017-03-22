@@ -52,13 +52,13 @@ new Vue({
 ```
 
 For more detailed usage about non es6 environments, check the
-[documentation](http://posva.net/vue-mdl/#usage).
+[documentation](http://posva.net/vue-mdl-docs/#usage).
 
 # Documentation
 
 The `test/components` directory has a lot of examples used for tests.
 
-The documentation is available [here](http://posva.net/vue-mdl)
+The documentation is available [here](http://posva.net/vue-mdl-docs)
 Pull Requests and issues are welcome.
 
 # Build

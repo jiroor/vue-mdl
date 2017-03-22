@@ -20,6 +20,12 @@
 
 # Intro
 
+---
+
+**Before using this**, consider using [vue-mdc](https://github.com/posva/vue-mdc) instead, which is based on the **successor** of Material Design Lite, [Material Components Web](https://github.com/material-components/material-components-web/). This project is now in maintenance mode while vue-mdc is being developed.
+
+---
+
 Reusable Vue components using [Material Design Lite](https://github.com/google/material-design-lite) for Vue 2.
 If you're using Vue 1, make sure to install the version 0.x. From version 1.x onwards, vue-mdl is compatible with Vue 2.
 
